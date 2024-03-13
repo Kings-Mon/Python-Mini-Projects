@@ -1,4 +1,4 @@
-# From here the word will be generated randomly which will be guessed by the player.
+# From here the word will be generated randomly which will have to be guessed by the player.
 # Update your words as many as you want.
 
 # ================================================================================================================== #
