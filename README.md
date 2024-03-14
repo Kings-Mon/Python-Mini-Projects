@@ -1,2 +1,2 @@
 # Python-Projects
-A collection of some beginners to advance level Python Projects. Fell free to use and contribute.
+A collection of some beginners to advance level Python Projects. Feel free to use and contribute.
